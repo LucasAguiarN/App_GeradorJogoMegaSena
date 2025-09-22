@@ -65,7 +65,8 @@ App como Atividade da disciplina Desenvolvimento Mobile, ministrada pelo profess
 
 <h2 id="interface">🖥️ Interface</h2>
 <p align="center">✦ Icone<br><img src="Interface/icone.png" alt="Icone" width="200px"><br></p>
-<p align="center">✦ Home<br><img src="Interface/tela_home.png" alt="Tela Home" width="200px"><br></p>
+<p align="center">✦ Main<br><img src="Interface/tela_main1.png" alt="Tela Home 1" width="200px"><br></p>
+<p align="center">✦ Main Rodando<br><img src="Interface/tela_main2.png" alt="Tela Home 2" width="200px"><br></p>
 
 <h2 id="how-it-works">⚙️ Funcionalidades</h2>
 🔹 Gerar Jogo de Mega Sena com quantidade números informado pelo usuário.
