@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
             if (qtd >= 6 && qtd <= 15){
                 val jogo = mutableSetOf<Int>()
                 while (true){
-                    val numero: Int = Random.nextInt(61)
+                    val numero: Int = Random.nextInt(1,61)
                     jogo.add(numero)
                     if (jogo.size == qtd){
                         break
